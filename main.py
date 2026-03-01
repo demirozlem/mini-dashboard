@@ -1,1 +1,3 @@
-# Dashboard v1.0 
+# Dashboard v1.0
+import weather
+import news
